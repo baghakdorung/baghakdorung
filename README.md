@@ -1,5 +1,5 @@
-<h1>🔗</h1>
 <div>
+  <h1 style="display:inline;">🔗 LINK</h1>
   <a href="https://baghakdorung.itch.io/" target="_blank">    
     <img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
   </a>
