@@ -1,4 +1,7 @@
 <div>
+  <a href="https://baghakdorung.itch.io/" target="_blank">    
+    <img src="https://img.shields.io/badge/ITCHDOTIO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+  </a>
   <a href="https://baghakdorung.tistory.com/" target="_blank">    
     <img src="https://img.shields.io/badge/TISTORY-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/>
   </a>
